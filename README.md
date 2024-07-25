@@ -19,4 +19,4 @@ In our Bank Loan Report project, we aim to visually represent critical loan-rela
 - Step 1: Cleansing raw data
 - Step 2: Create table from data
 - Step 3: Create Pivot Table
-- Step 4: Building Dashboard, Slicer, and then formatting Dashboard# BankLoanProject
+- Step 4: Building Dashboard, Slicer, and then formatting Dashboard
